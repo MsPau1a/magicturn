@@ -1,12 +1,13 @@
 {
     "name": "MagicTurn",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
         "maqueen": "github:dfrobot/pxt-maqueen#v1.7.2",
-        "MagicTurn": "github:mspau1a/magicturn#61edfcbe57e87240218fe7477e59a4275a8fa33c"
+        "MagicTurn": "github:mspau1a/magicturn"
     },
     "files": [
         "main.blocks",
